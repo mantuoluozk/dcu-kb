@@ -1,0 +1,4 @@
+interface:
+  display_name: "海光 DCU 手册导航"
+  short_description: "按实际版本检索海光 DTK、HIP、算子库和性能分析工具的本地手册"
+  default_prompt: "使用 $dcu-kb，定位当前海光开发任务对应的手册章节，并核实实际版本的 API 和参数。"

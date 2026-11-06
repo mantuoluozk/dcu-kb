@@ -1,0 +1,99 @@
+[
+  {
+    "id": "environment",
+    "title": "DTK 26.04 开发环境使用手册",
+    "filenames": [
+      "DTK 26.04 开发环境使用手册.md"
+    ],
+    "purpose": "环境配置、工具链、环境变量"
+  },
+  {
+    "id": "installation",
+    "title": "DTK 26.04 开发环境安装部署手册",
+    "filenames": [
+      "DTK 26.04 开发环境安装部署手册.md"
+    ],
+    "purpose": "驱动和 DTK 安装"
+  },
+  {
+    "id": "hip-guide",
+    "title": "DTK 26.04 HIP C++编程指南",
+    "filenames": [
+      "DTK 26.04 HIP C++编程指南.md"
+    ],
+    "purpose": "kernel、线程、内存、多设备"
+  },
+  {
+    "id": "hip-runtime",
+    "title": "DTK 26.04 HIP Runtime API开发手册",
+    "filenames": [
+      "DTK 26.04 HIP Runtime API开发手册.md"
+    ],
+    "purpose": "HIP API 签名和语义"
+  },
+  {
+    "id": "best-practices",
+    "title": "DTK 26.04 HIP 最佳实践手册",
+    "filenames": [
+      "DTK 26.04 HIP最佳实践手册.md",
+      "DTK 26.04 HIP 最佳实践手册.md"
+    ],
+    "purpose": "性能与内存优化方法"
+  },
+  {
+    "id": "dcc",
+    "title": "DTK 26.04 DCC使用手册",
+    "filenames": [
+      "DTK 26.04 DCC使用手册.md"
+    ],
+    "purpose": "编译选项与宏"
+  },
+  {
+    "id": "rocblas",
+    "title": "DTK 26.04 rocBLAS库使用手册",
+    "filenames": [
+      "DTK 26.04 rocBLAS库使用手册.md"
+    ],
+    "purpose": "BLAS、类型和矩阵布局"
+  },
+  {
+    "id": "hipblaslt",
+    "title": "DTK 26.04 hipBLASLt库使用手册",
+    "filenames": [
+      "DTK 26.04 hipBLASLt库使用手册.md"
+    ],
+    "purpose": "GEMM 与 epilogue"
+  },
+  {
+    "id": "miopen",
+    "title": "DTK 26.04 MIOpen库使用手册",
+    "filenames": [
+      "DTK 26.04 MIOpen库使用手册.md"
+    ],
+    "purpose": "深度学习原语"
+  },
+  {
+    "id": "hipprof",
+    "title": "DTK 26.04 hipprof使用手册",
+    "filenames": [
+      "DTK 26.04 hipprof使用手册.md"
+    ],
+    "purpose": "profiling 与参数"
+  },
+  {
+    "id": "migraphx",
+    "title": "DAS1.8_MIGraphX_5.2.0使用手册",
+    "filenames": [
+      "DAS1.8_MIGraphX_5.2.0使用手册.md"
+    ],
+    "purpose": "图转换、优化和量化"
+  },
+  {
+    "id": "onnxruntime",
+    "title": "ONNXRuntime使用手册_v1.19.2",
+    "filenames": [
+      "ONNXRuntime使用手册_v1.19.2.md"
+    ],
+    "purpose": "ONNX Runtime 与 EP"
+  }
+]
